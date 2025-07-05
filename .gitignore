@@ -144,6 +144,7 @@ lib/
 ENV/
 env.bak/
 venv.bak/
+Videos/
 
 # Spyder project settings
 .spyderproject
